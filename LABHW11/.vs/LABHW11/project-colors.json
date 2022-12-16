@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dcd69588-21e9-4ce7-9992-cf36d08a3a04": {
+      "ProjectGuid": "dcd69588-21e9-4ce7-9992-cf36d08a3a04",
+      "DisplayName": "HW6_1_2",
+      "ColorIndex": 0
+    },
+    "bc75b121-4c45-413e-b02d-019ef8952ea3": {
+      "ProjectGuid": "bc75b121-4c45-413e-b02d-019ef8952ea3",
+      "DisplayName": "HW6_1_1",
+      "ColorIndex": 1
+    },
+    "122921f8-78d8-4914-bc7f-5cd94603b9d1": {
+      "ProjectGuid": "122921f8-78d8-4914-bc7f-5cd94603b9d1",
+      "DisplayName": "HW6_2_1a",
+      "ColorIndex": 2
+    },
+    "c86b863c-3bbf-4fea-bc5f-f0d522313b06": {
+      "ProjectGuid": "c86b863c-3bbf-4fea-bc5f-f0d522313b06",
+      "DisplayName": "HW6_2_2b",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

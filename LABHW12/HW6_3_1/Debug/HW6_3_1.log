@@ -1,0 +1,6 @@
+﻿  kruskal.c
+C:\Users\정채원\Desktop\DWU\2학년 2학기\자료구조\LABHW12\HW6_3_1\kruskal.c(53,14): warning C4101: 'v' :참조되지 않은 지역 변수입니다.
+C:\Users\정채원\Desktop\DWU\2학년 2학기\자료구조\LABHW12\HW6_3_1\kruskal.c(53,11): warning C4101: 'u' :참조되지 않은 지역 변수입니다.
+C:\Users\정채원\Desktop\DWU\2학년 2학기\자료구조\LABHW12\HW6_3_1\kruskal.c(53,6): warning C4101: 'key' :참조되지 않은 지역 변수입니다.
+C:\Users\정채원\Desktop\DWU\2학년 2학기\자료구조\LABHW12\HW6_3_1\kruskal.c(81,12): warning C4098: 'write_graph': 'void' 함수에서 값을 반환하고 있습니다.
+  HW6_3_1.vcxproj -> C:\Users\정채원\Desktop\DWU\2학년 2학기\자료구조\LABHW12\Debug\HW6_3_1.exe

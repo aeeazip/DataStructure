@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1152dc45-704f-40cb-85ab-47c6a3fb4566": {
+      "ProjectGuid": "1152dc45-704f-40cb-85ab-47c6a3fb4566",
+      "DisplayName": "HW5_1",
+      "ColorIndex": 0
+    },
+    "58d2bca3-6488-4c04-8805-14521dc9bba0": {
+      "ProjectGuid": "58d2bca3-6488-4c04-8805-14521dc9bba0",
+      "DisplayName": "HW5_2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

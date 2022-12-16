@@ -1,0 +1,6 @@
+﻿  HW6_2_1a.c
+C:\Users\정채원\OneDrive\바탕 화면\DWU\2학년 2학기\자료구조\LABHW11\HW6_2_1a\HW6_2_1a.c(26,17): warning C4098: 'insert_vertex': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\정채원\OneDrive\바탕 화면\DWU\2학년 2학기\자료구조\LABHW11\HW6_2_1a\HW6_2_1a.c(34,17): warning C4098: 'insert_edge': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\정채원\OneDrive\바탕 화면\DWU\2학년 2학기\자료구조\LABHW11\HW6_2_1a\HW6_2_1a.c(49,13): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\정채원\OneDrive\바탕 화면\DWU\2학년 2학기\자료구조\LABHW11\HW6_2_1a\HW6_2_1a.c(81,9): warning C4101: 'u' :참조되지 않은 지역 변수입니다.
+  HW6_2_1a.vcxproj -> C:\Users\정채원\OneDrive\바탕 화면\DWU\2학년 2학기\자료구조\LABHW11\Debug\HW6_2_1a.exe

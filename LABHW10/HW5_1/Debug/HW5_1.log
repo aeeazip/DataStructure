@@ -1,0 +1,6 @@
+﻿  HW5_1.c
+C:\Users\정채원\OneDrive\바탕 화면\DWU\2학년 2학기\자료구조\LABHW10\HW5_1\HW5_1.c(31,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\정채원\OneDrive\바탕 화면\DWU\2학년 2학기\자료구조\LABHW10\HW5_1\HW5_1.c(46,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\정채원\OneDrive\바탕 화면\DWU\2학년 2학기\자료구조\LABHW10\HW5_1\HW5_1.c(131,14): warning C4101: 'e5' :참조되지 않은 지역 변수입니다.
+C:\Users\정채원\OneDrive\바탕 화면\DWU\2학년 2학기\자료구조\LABHW10\HW5_1\HW5_1.c(131,18): warning C4101: 'e6' :참조되지 않은 지역 변수입니다.
+  HW5_1.vcxproj -> C:\Users\정채원\OneDrive\바탕 화면\DWU\2학년 2학기\자료구조\LABHW10\Debug\HW5_1.exe

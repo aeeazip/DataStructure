@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8d684844-a1f5-4f9b-8e88-270fd12c8d20": {
+      "ProjectGuid": "8d684844-a1f5-4f9b-8e88-270fd12c8d20",
+      "DisplayName": "HW6_3_1(Kruskal)",
+      "ColorIndex": 0
+    },
+    "b027e9be-e219-4756-959a-79f2793191b8": {
+      "ProjectGuid": "b027e9be-e219-4756-959a-79f2793191b8",
+      "DisplayName": "HW6_3_2(Prim)",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

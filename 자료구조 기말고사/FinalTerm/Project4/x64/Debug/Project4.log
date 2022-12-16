@@ -1,0 +1,8 @@
+﻿  Project4.c
+C:\Users\cheaw\Desktop\DWU\2학년 2학기\자료구조\자료구조 기말고사\FinalTerm\Project4\Project4.c(93,20): error C2059: 구문 오류: ']'
+C:\Users\cheaw\Desktop\DWU\2학년 2학기\자료구조\자료구조 기말고사\FinalTerm\Project4\Project4.c(101,10): error C2065: 'te': 선언되지 않은 식별자입니다.
+C:\Users\cheaw\Desktop\DWU\2학년 2학기\자료구조\자료구조 기말고사\FinalTerm\Project4\Project4.c(103,4): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\cheaw\Desktop\DWU\2학년 2학기\자료구조\자료구조 기말고사\FinalTerm\Project4\Project4.c(108,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\cheaw\Desktop\DWU\2학년 2학기\자료구조\자료구조 기말고사\FinalTerm\Project4\Project4.c(113,11): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\cheaw\Desktop\DWU\2학년 2학기\자료구조\자료구조 기말고사\FinalTerm\Project4\Project4.c(119,1): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\cheaw\Desktop\DWU\2학년 2학기\자료구조\자료구조 기말고사\FinalTerm\Project4\Project4.c(138,1): fatal error C1004: 예기치 않은 파일의 끝이 나타났습니다.

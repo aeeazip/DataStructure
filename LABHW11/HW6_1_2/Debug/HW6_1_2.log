@@ -1,0 +1,5 @@
+﻿  HW6_1_2.c
+C:\Users\정채원\OneDrive\바탕 화면\DWU\2학년 2학기\자료구조\LABHW11\HW6_1_2\HW6_1_2.c(28,11): warning C4098: 'insert_vertex': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\정채원\OneDrive\바탕 화면\DWU\2학년 2학기\자료구조\LABHW11\HW6_1_2\HW6_1_2.c(38,11): warning C4098: 'insert_edge': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\정채원\OneDrive\바탕 화면\DWU\2학년 2학기\자료구조\LABHW11\HW6_1_2\HW6_1_2.c(134,9): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+  HW6_1_2.vcxproj -> C:\Users\정채원\OneDrive\바탕 화면\DWU\2학년 2학기\자료구조\LABHW11\Debug\HW6_1_2.exe
